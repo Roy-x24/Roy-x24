@@ -1,42 +1,73 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=350&text=ROY%20BARRERA&fontSize=70&fontAlignY=40&animation=fadeIn&fontColor=ffffff&desc=FULL%20STACK%20DEVELOPER%20•%20SOFTWARE%20ENGINEERING%20STUDENT&descAlignY=58&descSize=18&color=0:000000,25:0f2027,50:203a43,75:2c5364,100:00ff99" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=350&text=ROY%20BARRERA&fontSize=75&fontAlignY=38&animation=fadeIn&fontColor=ffffff&desc=ESTUDIANTE%20DE%20LIC.%20EN%20DESARROLLO%20Y%20GESTIÓN%20DE%20SOFTWARE&descAlignY=58&descSize=18&color=0:000000,15:0f172a,35:111827,55:1e293b,75:0f766e,100:00ff99" />
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=00FF99&center=true&vCenter=true&width=1000&lines=Desarrollador+Full+Stack;Construyendo+sistemas+modernos+y+escalables;React+%7C+Vue+%7C+Flask+%7C+PHP;Backend+Developer;Siempre+aprendiendo+nuevas+tecnologías" />
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=30&pause=1000&color=00FF99&center=true&vCenter=true&width=1200&lines=Desarrollador+Full+Stack;Estudiante+de+Ingeniería+de+Software;Construyendo+sistemas+modernos+y+escalables;Backend+Developer;React+%7C+Vue+%7C+Flask+%7C+PHP;Apasionado+por+la+tecnología+y+la+innovación" />
 
 <br>
 
-<img src="https://komarev.com/ghpvc/?username=Roy-x24&label=VISITAS+AL+PERFIL&color=00ff99&style=for-the-badge" />
+<img src="https://komarev.com/ghpvc/?username=Roy-x24&label=VISITANTES&color=00ff99&style=for-the-badge"/>
+
+<img src="https://img.shields.io/github/followers/Roy-x24?style=for-the-badge&color=00ff99&labelColor=0D1117"/>
+
+<img src="https://img.shields.io/github/stars/Roy-x24?style=for-the-badge&color=00ff99&labelColor=0D1117"/>
 
 </div>
 
 ---
 
-# ⚡ Sobre Mí
+# 👨‍💻 Sobre Mí
 
-<img align="right" width="420" src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif">
+<img align="right" width="420" src="https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif">
 
-```js
+```typescript
 class RoyBarrera {
-    constructor() {
-        this.role = "Full Stack Developer";
-        this.location = "Panamá 🇵🇦";
-        this.education = "UTP - Desarrollo y Gestión de Software";
-        this.languages = ["JavaScript", "Python", "PHP", "Java"];
-        this.frontend = ["React", "Vue.js", "Tailwind CSS"];
-        this.backend = ["Flask", "PHP", "REST APIs"];
-        this.database = ["MySQL", "SQL Server"];
-        this.tools = ["Git", "GitHub", "Linux", "Postman"];
-        this.currentFocus = [
-            "Arquitectura Backend",
-            "Cloud Computing",
-            "Ciberseguridad",
-            "Sistemas Escalables"
-        ];
-    }
 
-    sayHi() {
-        return "Bienvenido a mi perfil 👨‍💻";
+    nombre: string = "Roy Barrera";
+
+    rol: string = "Desarrollador Full Stack";
+
+    universidad: string =
+        "Licenciatura en Desarrollo y Gestión de Software";
+
+    ubicación: string = "Panamá 🇵🇦";
+
+    enfoque: string[] = [
+        "Backend Engineering",
+        "Arquitectura de Software",
+        "Desarrollo Web",
+        "Cloud Computing",
+        "Ciberseguridad"
+    ];
+
+    tecnologías: object = {
+        frontend: [
+            "React",
+            "Vue.js",
+            "Tailwind CSS"
+        ],
+
+        backend: [
+            "Flask",
+            "PHP",
+            "REST APIs"
+        ],
+
+        databases: [
+            "MySQL",
+            "SQL Server"
+        ],
+
+        languages: [
+            "JavaScript",
+            "Python",
+            "PHP",
+            "Java"
+        ]
+    };
+
+    filosofía(): string {
+        return "No escribo código... construyo soluciones.";
     }
 }
 
@@ -47,7 +78,17 @@ const roy = new RoyBarrera();
 
 <div align="center">
 
-## 🚀 “No solo escribo código… construyo soluciones.”
+## ⚡ “La tecnología cambia el mundo, el software lo impulsa.”
+
+</div>
+
+---
+
+# 🚀 Stack Tecnológico
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=react,vue,js,python,php,java,flask,mysql,git,github,linux,tailwind,html,css,vscode,postman,bash" />
 
 </div>
 
@@ -58,34 +99,60 @@ const roy = new RoyBarrera();
 <div align="center">
 
 <table>
+
 <tr>
-<td align="center">⚡ Código Limpio</td>
-<td align="center">🏗️ Arquitectura MVC</td>
-<td align="center">🔌 APIs REST</td>
+<td align="center" width="200">
+
+### 🏗️ Arquitectura
+
+Diseño de sistemas escalables y mantenibles
+
+</td>
+
+<td align="center" width="200">
+
+### ⚡ Clean Code
+
+Código limpio, organizado y reutilizable
+
+</td>
+
+<td align="center" width="200">
+
+### 🔌 APIs
+
+Construcción e integración de APIs REST
+
+</td>
 </tr>
 
 <tr>
-<td align="center">🚀 Escalabilidad</td>
-<td align="center">🧩 Componentes Reutilizables</td>
-<td align="center">👥 Scrum</td>
+<td align="center">
+
+### 🚀 Full Stack
+
+Frontend moderno + Backend robusto
+
+</td>
+
+<td align="center">
+
+### 🐧 Linux
+
+Entornos de desarrollo y servidores
+
+</td>
+
+<td align="center">
+
+### 🔒 Seguridad
+
+Fundamentos de ciberseguridad y redes
+
+</td>
 </tr>
 
-<tr>
-<td align="center">🐧 Linux</td>
-<td align="center">🔒 Ciberseguridad</td>
-<td align="center">🌐 Full Stack</td>
-</tr>
 </table>
-
-</div>
-
----
-
-# ⚒️ Stack Tecnológico
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=react,vue,js,python,php,java,flask,mysql,git,github,linux,tailwind,html,css,vscode,postman,bash" />
 
 </div>
 
@@ -95,9 +162,9 @@ const roy = new RoyBarrera();
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Roy-x24&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Roy-x24&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&icon_color=00ff99&title_color=00ff99&text_color=ffffff"/>
 
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Roy-x24&theme=tokyonight&hide_border=true&background=0D1117"/>
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Roy-x24&theme=tokyonight&hide_border=true&background=0D1117&ring=00ff99&fire=00ff99&currStreakLabel=00ff99"/>
 
 </div>
 
@@ -105,7 +172,7 @@ const roy = new RoyBarrera();
 
 <div align="center">
 
-<img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Roy-x24&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
+<img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Roy-x24&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00ff99&text_color=ffffff"/>
 
 </div>
 
@@ -113,16 +180,16 @@ const roy = new RoyBarrera();
 
 # 🏗️ Experiencia
 
-<img align="right" width="350" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif">
+<img align="right" width="350" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2V0MXM5Y3JqNG9wOG9rM2M0YWQzN3U3cnM1c3RlN3JkNm8wN3d1aiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l0HlNaQ6gWfllcjDO/giphy.gif">
 
 ## 💻 DITIC — Universidad Tecnológica de Panamá
 
 ### Desarrollador Web — Práctica Profesional
 
-✔️ Migración de sistemas HTML estáticos a Flask + Vue.js  
-✔️ Desarrollo de arquitectura modular y reutilizable  
-✔️ Validación funcional y documentación técnica  
-✔️ Trabajo bajo buenas prácticas de ingeniería  
+- 🔥 Migración de sistemas HTML estáticos a Flask + Vue.js
+- 🏗️ Arquitectura modular basada en componentes reutilizables
+- ⚡ Validación funcional y documentación técnica
+- 🚀 Participación en despliegue y optimización
 
 <br>
 
@@ -130,21 +197,25 @@ const roy = new RoyBarrera();
 
 ### Desarrollador Frontend — Voluntariado
 
-✔️ Interfaces modernas con React + Tailwind  
-✔️ Componentes reutilizables y mantenibles  
-✔️ Trabajo colaborativo con Scrum  
-✔️ Revisión y mejora continua de código  
+- 🎨 Interfaces modernas con React + Tailwind CSS
+- 🧩 Desarrollo de módulos reutilizables y mantenibles
+- 🤝 Trabajo colaborativo bajo Scrum
+- 📈 Mejora continua y revisión de código
 
 ---
 
-# 🎯 Objetivos Actuales
+# 🎯 Objetivos
 
-```txt
-🚀 Convertirme en Backend Engineer
-☁️ Aprender Cloud & DevOps
-🔒 Especializarme en Ciberseguridad
-🏗️ Diseñar sistemas escalables
-📚 Mejorar arquitectura de software
+```yaml
+Backend Engineering: ██████████████░░░ 85%
+
+Cloud Computing: ███████████░░░░░░░ 60%
+
+Ciberseguridad: ██████████░░░░░░░░ 55%
+
+Arquitectura de Software: █████████████░░ 80%
+
+Full Stack Development: ███████████████░ 90%
 ```
 
 ---
@@ -163,7 +234,7 @@ const roy = new RoyBarrera();
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Roy-x24&theme=tokyo-night&hide_border=true&area=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Roy-x24&theme=tokyo-night&hide_border=true&area=true&color=00ff99&line=00ff99&point=ffffff"/>
 
 </div>
 
@@ -173,7 +244,7 @@ const roy = new RoyBarrera();
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Roy-x24&theme=tokyonight&no-frame=true&column=7"/>
+<img src="https://github-profile-trophy.vercel.app/?username=Roy-x24&theme=matrix&no-frame=true&column=7&margin-w=15&margin-h=15"/>
 
 </div>
 
@@ -195,7 +266,20 @@ const roy = new RoyBarrera();
 
 ---
 
-# ⚡ Frase
+# 💭 Filosofía
+
+<div align="center">
+
+```txt
+"El software no solo se programa...
+se diseña, se estructura y se construye para resolver problemas reales."
+```
+
+</div>
+
+---
+
+# ⚡ Frase Aleatoria
 
 <div align="center">
 
@@ -207,10 +291,6 @@ const roy = new RoyBarrera();
 
 <div align="center">
 
-## 👨‍💻 “El software no solo se desarrolla… se diseña.”
-
-<br>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=150&section=footer&color=0:000000,25:0f2027,50:203a43,75:2c5364,100:00ff99"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=170&section=footer&color=0:000000,15:0f172a,35:111827,55:1e293b,75:0f766e,100:00ff99"/>
 
 </div>
