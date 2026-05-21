@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=350&text=ROY%20BARRERA&fontSize=75&fontAlignY=38&animation=fadeIn&fontColor=ffffff&desc=ESTUDIANTE%20DE%20LIC.%20EN%20DESARROLLO%20Y%20GESTIÓN%20DE%20SOFTWARE&descAlignY=58&descSize=18&color=0:000000,15:0f172a,35:111827,55:1e293b,75:0f766e,100:00ff99" />
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=30&pause=1000&color=00FF99&center=true&vCenter=true&width=1200&lines=Desarrollador+Full+Stack;Estudiante+de+Ingeniería+de+Software;Construyendo+sistemas+modernos+y+escalables;Backend+Developer;React+%7C+Vue+%7C+Flask+%7C+PHP;Apasionado+por+la+tecnología+y+la+innovación" />
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=30&pause=1000&color=00FF99&center=true&vCenter=true&width=1200&lines=Desarrollador+Full+Stack;Construyendo+sistemas+modernos+y+escalables;React+%7C+Vue+%7C+Flask+%7C+PHP;Backend+Developer;Apasionado+por+la+tecnología+y+la+innovación" />
 
 <br>
 
@@ -10,15 +10,13 @@
 
 <img src="https://img.shields.io/github/followers/Roy-x24?style=for-the-badge&color=00ff99&labelColor=0D1117"/>
 
-<img src="https://img.shields.io/github/stars/Roy-x24?style=for-the-badge&color=00ff99&labelColor=0D1117"/>
-
 </div>
 
 ---
 
 # 👨‍💻 Sobre Mí
 
-<img align="right" width="420" src="https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif">
+<img align="right" width="420" src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif">
 
 ```typescript
 class RoyBarrera {
@@ -35,12 +33,12 @@ class RoyBarrera {
     enfoque: string[] = [
         "Backend Engineering",
         "Arquitectura de Software",
-        "Desarrollo Web",
         "Cloud Computing",
         "Ciberseguridad"
     ];
 
     tecnologías: object = {
+
         frontend: [
             "React",
             "Vue.js",
@@ -73,14 +71,6 @@ class RoyBarrera {
 
 const roy = new RoyBarrera();
 ```
-
-<br>
-
-<div align="center">
-
-## ⚡ “La tecnología cambia el mundo, el software lo impulsa.”
-
-</div>
 
 ---
 
@@ -119,9 +109,9 @@ Código limpio, organizado y reutilizable
 
 <td align="center" width="200">
 
-### 🔌 APIs
+### 🔌 APIs REST
 
-Construcción e integración de APIs REST
+Desarrollo e integración de APIs modernas
 
 </td>
 </tr>
@@ -147,7 +137,7 @@ Entornos de desarrollo y servidores
 
 ### 🔒 Seguridad
 
-Fundamentos de ciberseguridad y redes
+Fundamentos de redes y ciberseguridad
 
 </td>
 </tr>
@@ -162,9 +152,9 @@ Fundamentos de ciberseguridad y redes
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Roy-x24&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&icon_color=00ff99&title_color=00ff99&text_color=ffffff"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Roy-x24&show_icons=true&theme=radical&hide_border=true"/>
 
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Roy-x24&theme=tokyonight&hide_border=true&background=0D1117&ring=00ff99&fire=00ff99&currStreakLabel=00ff99"/>
+<img width="49%" src="https://streak-stats.demolab.com?user=Roy-x24&theme=radical&hide_border=true"/>
 
 </div>
 
@@ -172,7 +162,7 @@ Fundamentos de ciberseguridad y redes
 
 <div align="center">
 
-<img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Roy-x24&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00ff99&text_color=ffffff"/>
+<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Roy-x24&layout=compact&theme=radical&hide_border=true"/>
 
 </div>
 
@@ -180,14 +170,14 @@ Fundamentos de ciberseguridad y redes
 
 # 🏗️ Experiencia
 
-<img align="right" width="350" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2V0MXM5Y3JqNG9wOG9rM2M0YWQzN3U3cnM1c3RlN3JkNm8wN3d1aiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l0HlNaQ6gWfllcjDO/giphy.gif">
+<img align="right" width="350" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif">
 
 ## 💻 DITIC — Universidad Tecnológica de Panamá
 
 ### Desarrollador Web — Práctica Profesional
 
 - 🔥 Migración de sistemas HTML estáticos a Flask + Vue.js
-- 🏗️ Arquitectura modular basada en componentes reutilizables
+- 🏗️ Desarrollo modular basado en componentes reutilizables
 - ⚡ Validación funcional y documentación técnica
 - 🚀 Participación en despliegue y optimización
 
@@ -200,7 +190,7 @@ Fundamentos de ciberseguridad y redes
 - 🎨 Interfaces modernas con React + Tailwind CSS
 - 🧩 Desarrollo de módulos reutilizables y mantenibles
 - 🤝 Trabajo colaborativo bajo Scrum
-- 📈 Mejora continua y revisión de código
+- 📈 Revisión y mejora continua de código
 
 ---
 
@@ -234,7 +224,7 @@ Full Stack Development: ███████████████░ 90%
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Roy-x24&theme=tokyo-night&hide_border=true&area=true&color=00ff99&line=00ff99&point=ffffff"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Roy-x24&theme=react-dark&hide_border=true"/>
 
 </div>
 
@@ -244,7 +234,7 @@ Full Stack Development: ███████████████░ 90%
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Roy-x24&theme=matrix&no-frame=true&column=7&margin-w=15&margin-h=15"/>
+<img src="https://github-profile-trophy.vercel.app/?username=Roy-x24&theme=radical&no-frame=true&row=1&column=7"/>
 
 </div>
 
@@ -283,7 +273,7 @@ se diseña, se estructura y se construye para resolver problemas reales."
 
 <div align="center">
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical"/>
 
 </div>
 
