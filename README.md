@@ -370,6 +370,8 @@
 <!-- ═══════════════════════════════════════════════════════════════ -->
 <!--                    FOOTER BANNER                                -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
-![footer](https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&text=ROY%20BARRERA%20©%202025%20—%20PANAMÁ%20🇵🇦&fontSize=16&color=0:020617,50:0f172a,100:134e4a#gh-dark-mode-only)
+<div align="center">
 
-![footer](https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&text=ROY%20BARRERA%20©%202025%20—%20PANAMÁ%20🇵🇦&fontSize=16&color=0:f0fdf4,50:ecfdf5,100:ccfbf1#gh-light-mode-only)
+<img src="https://capsule-render.vercel.app/api?type=waving&height=180&section=footer&text=ROY%20BARRERA%20©%202025%20—%20PANAMÁ%20🇵🇦&fontSize=20&fontColor=94a3b8&desc=Built%20with%20passion%20%26%20caffeine&descSize=14&descAlignY=75&color=0:020617,50:0f172a,100:134e4a"/>
+
+</div>
