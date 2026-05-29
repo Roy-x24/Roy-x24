@@ -372,6 +372,6 @@
 <!-- ═══════════════════════════════════════════════════════════════ -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=180&section=footer&text=ROY%20BARRERA%20©%202025%20—%20PANAMÁ%20🇵🇦&fontSize=20&fontColor=94a3b8&desc=Built%20with%20passion%20%26%20caffeine&descSize=14&descAlignY=75&color=0:020617,50:0f172a,100:134e4a"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=180&section=footer&text=ROY%20BARRERA%20(2025)%20-%20PANAMA&fontSize=20&fontColor=94a3b8&desc=Built%20with%20passion%20%26%20caffeine&descSize=14&descAlignY=75&color=0:020617,50:0f172a,100:134e4a"/>
 
 </div>
