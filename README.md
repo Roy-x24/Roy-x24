@@ -1,9 +1,13 @@
 <div align="center">
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                    BANNER ANIMADO HEADER                        -->
+<!--              BANNER ANIMADO HEADER (DARK/LIGHT)                 -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
-![header](https://capsule-render.vercel.app/api?type=waving&height=300&text=ROY%20BARRERA&fontSize=70&fontAlignY=35&animation=twinkling&fontColor=ffffff&desc=Full%20Stack%20Developer%20%7C%20Panamá%20%F0%9F%87%B5%F0%9F%87%A6&descAlignY=55&descSize=18&color=0:020617,25:0f172a,50:059669,75:0f172a,100:020617)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&height=300&text=ROY%20BARRERA&fontSize=70&fontAlignY=35&animation=twinkling&fontColor=ffffff&desc=Full%20Stack%20Developer%20%7C%20Panamá%20%F0%9F%87%B5%F0%9F%87%A6&descAlignY=55&descSize=18&color=0:020617,25:0f172a,50:059669,75:0f172a,100:020617"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&height=300&text=ROY%20BARRERA&fontSize=70&fontAlignY=35&animation=twinkling&fontColor=0f172a&desc=Full%20Stack%20Developer%20%7C%20Panamá%20%F0%9F%87%B5%F0%9F%87%A6&descAlignY=55&descSize=18&color=0:f0fdf4,25:ecfdf5,50:34d399,75:ecfdf5,100:f0fdf4"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=300&text=ROY%20BARRERA&fontSize=70&fontAlignY=35&animation=twinkling&fontColor=ffffff&desc=Full%20Stack%20Developer%20%7C%20Panamá%20%F0%9F%87%B5%F0%9F%87%A6&descAlignY=55&descSize=18&color=0:020617,25:0f172a,50:059669,75:0f172a,100:020617"/>
+</picture>
 
 <br/>
 
@@ -28,8 +32,10 @@
 
 ---
 
+<br/>
+
 <!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                    GIF + INFO SIDE BY SIDE                      -->
+<!--              TERMINAL WHOAMI + GIF SIDE BY SIDE                 -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 <div align="center">
 
@@ -118,6 +124,34 @@
 <br/>
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
+<!--              PROYECTOS DESTACADOS (PINNED)                      -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<div align="center">
+
+## 🚀 `Featured Repositories`
+
+<br/>
+
+<a href="https://github.com/Roy-x24">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Roy-x24&repo=your-best-repo&theme=transparent&hide_border=true&title_color=10b981&icon_color=10b981&text_color=e2e8f0&border_radius=12"/>
+</a>
+<a href="https://github.com/Roy-x24">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Roy-x24&repo=another-repo&theme=transparent&hide_border=true&title_color=10b981&icon_color=10b981&text_color=e2e8f0&border_radius=12"/>
+</a>
+
+<br/>
+
+> 💡 *Reemplaza `your-best-repo` y `another-repo` con los nombres reales de tus repositorios destacados para mostrar tarjetas automáticas.*
+
+</div>
+
+<br/>
+
+---
+
+<br/>
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
 <!--                    EXPERIENCE LOG                               -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 <div align="center">
@@ -153,6 +187,30 @@
 + ✅ Clean Code & Peer Code Reviews
 + ✅ Trabajo colaborativo en equipo remoto
 ```
+
+<br/>
+
+---
+
+<br/>
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                 EDUCACIÓN & CERTIFICACIONES                     -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<div align="center">
+
+## 🎓 `Knowledge Base`
+
+</div>
+
+<br/>
+
+| Institución | Programa | Estado |
+|:---|:---|:---:|
+| 🏫 **Universidad Tecnológica de Panamá** | Lic. Desarrollo y Gestión de Software | 🎓 *En progreso* |
+| 🌐 **freeCodeCamp** | Responsive Web Design | ✅ *Certificado* |
+| 🐍 **Python Institute** | PCAP – Certified Associate in Python Programming | 🔄 *En curso* |
+| ☁️ **AWS / Microsoft Learn** | Cloud Fundamentals | 🔄 *En curso* |
 
 <br/>
 
@@ -249,6 +307,29 @@
 <br/>
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
+<!--              FILOSOFÍA / NOW PLAYING / SPOTIFY                  -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<div align="center">
+
+## 🎧 `Now Playing`
+
+<br/>
+
+[![Spotify](https://spotify-github-profile.vercel.app/api/view?uid=YOUR_SPOTIFY_ID&cover_image=true&theme=default&show_offline=false&background_color=0f172a&interchange=false&bar_color=10b981)](https://open.spotify.com/user/YOUR_SPOTIFY_ID)
+
+<br/>
+
+> 🎵 *"El mejor código nace con la mejor música."*
+
+</div>
+
+<br/>
+
+---
+
+<br/>
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
 <!--                    QUOTE + CONTACTO                             -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 <div align="center">
@@ -271,6 +352,13 @@
   <img src="https://img.shields.io/badge/GitHub-Roy--x24-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0f172a"/>
 </a>
 
+<br/><br/>
+
+```diff
++ 📬 Disponible para proyectos freelance, colaboraciones open source y oportunidades laborales.
++ 🚀 Si tienes una idea ambiciosa, hablemos.
+```
+
 </div>
 
 <br/>
@@ -284,6 +372,10 @@
 <!-- ═══════════════════════════════════════════════════════════════ -->
 <div align="center">
 
-![footer](https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&text=ROY%20BARRERA%20©%202025%20—%20PANAMÁ%20🇵🇦&fontSize=16&fontColor=64748b&desc=Built%20with%20passion%20%26%20caffeine&descSize=12&descAlignY=80&color=0:020617,50:0f172a,100:134e4a)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&text=ROY%20BARRERA%20©%202025%20—%20PANAMÁ%20🇵🇦&fontSize=16&fontColor=64748b&desc=Built%20with%20passion%20%26%20caffeine&descSize=12&descAlignY=80&color=0:020617,50:0f172a,100:134e4a"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&text=ROY%20BARRERA%20©%202025%20—%20PANAMÁ%20🇵🇦&fontSize=16&fontColor=0f172a&desc=Built%20with%20passion%20%26%20caffeine&descSize=12&descAlignY=80&color=0:f0fdf4,50:ecfdf5,100:ccfbf1"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&text=ROY%20BARRERA%20©%202025%20—%20PANAMÁ%20🇵🇦&fontSize=16&fontColor=64748b&desc=Built%20with%20passion%20%26%20caffeine&descSize=12&descAlignY=80&color=0:020617,50:0f172a,100:134e4a"/>
+</picture>
 
 </div>
