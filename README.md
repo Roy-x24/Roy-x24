@@ -370,4 +370,4 @@
 <!-- ═══════════════════════════════════════════════════════════════ -->
 <!--                    FOOTER BANNER                                -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
-![footer](https://capsule-render.vercel.app/api?type=waving&height=240&section=footer&text=ROY%20BARRERA%20©%202025%20—%20PANAMÁ%20🇵🇦&fontSize=26&color=0:020617,50:0f172a,100:134e4a#gh-dark-mode-only)
+![footer](https://capsule-render.vercel.app/api?type=waving&height=240&section=footer&text=R%20O%20Y%20%20B%20A%20R%20R%20E%20R%20A&fontSize=28&fontAlignY=65&fontColor=22d3ee&desc=PANAMA%20PA&descSize=14&descAlignY=85&color=0:020617,50:0f172a,100:134e4a#gh-dark-mode-only)
