@@ -370,12 +370,6 @@
 <!-- ═══════════════════════════════════════════════════════════════ -->
 <!--                    FOOTER BANNER                                -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
-<div align="center">
+![footer](https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&text=ROY%20BARRERA%20©%202025%20—%20PANAMÁ%20🇵🇦&fontSize=16&color=0:020617,50:0f172a,100:134e4a#gh-dark-mode-only)
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&text=ROY%20BARRERA%20©%202025%20—%20PANAMÁ%20🇵🇦&fontSize=16&fontColor=64748b&desc=Built%20with%20passion%20%26%20caffeine&descSize=12&descAlignY=80&color=0:020617,50:0f172a,100:134e4a"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&text=ROY%20BARRERA%20©%202025%20—%20PANAMÁ%20🇵🇦&fontSize=16&fontColor=0f172a&desc=Built%20with%20passion%20%26%20caffeine&descSize=12&descAlignY=80&color=0:f0fdf4,50:ecfdf5,100:ccfbf1"/>
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&text=ROY%20BARRERA%20©%202025%20—%20PANAMÁ%20🇵🇦&fontSize=16&fontColor=64748b&desc=Built%20with%20passion%20%26%20caffeine&descSize=12&descAlignY=80&color=0:020617,50:0f172a,100:134e4a"/>
-</picture>
-
-</div>
+![footer](https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&text=ROY%20BARRERA%20©%202025%20—%20PANAMÁ%20🇵🇦&fontSize=16&color=0:f0fdf4,50:ecfdf5,100:ccfbf1#gh-light-mode-only)
