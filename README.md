@@ -4,9 +4,11 @@
 <!--              BANNER ANIMADO HEADER (DARK/LIGHT)                 -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&height=300&text=ROY%20BARRERA&fontSize=70&fontAlignY=35&animation=twinkling&fontColor=ffffff&desc=Full%20Stack%20Developer%20%7C%20Panamá%20%F0%9F%87%B5%F0%9F%87%A6&descAlignY=55&descSize=18&color=0:020617,25:0f172a,50:059669,75:0f172a,100:020617"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&height=300&text=ROY%20BARRERA&fontSize=70&fontAlignY=35&animation=twinkling&fontColor=0f172a&desc=Full%20Stack%20Developer%20%7C%20Panamá%20%F0%9F%87%B5%F0%9F%87%A6&descAlignY=55&descSize=18&color=0:f0fdf4,25:ecfdf5,50:34d399,75:ecfdf5,100:f0fdf4"/>
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=300&text=ROY%20BARRERA&fontSize=70&fontAlignY=35&animation=twinkling&fontColor=ffffff&desc=Full%20Stack%20Developer%20%7C%20Panamá%20%F0%9F%87%B5%F0%9F%87%A6&descAlignY=55&descSize=18&color=0:020617,25:0f172a,50:059669,75:0f172a,100:020617"/>
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&height=320&text=ROY%20BARRERA&fontSize=72&fontAlignY=38&animation=fadeIn&fontColor=22d3ee&desc=Full%20Stack%20Developer&descAlignY=60&descSize=20&color=0:020617,25:0f172a,50:134e4a,75:0f172a,100:020617"/>
+  
+  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&height=320&text=ROY%20BARRERA&fontSize=72&fontAlignY=38&animation=fadeIn&fontColor=0f172a&desc=Full%20Stack%20Developer&descAlignY=60&descSize=20&color=0:f0fdf4,25:ecfdf5,50:34d399,75:ecfdf5,100:f0fdf4"/>
+  
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=320&text=ROY%20BARRERA&fontSize=72&fontAlignY=38&animation=fadeIn&fontColor=22d3ee&desc=Full%20Stack%20Developer&descAlignY=60&descSize=20&color=0:020617,25:0f172a,50:134e4a,75:0f172a,100:020617"/>
 </picture>
 
 <br/>
